@@ -6,7 +6,7 @@ AY24/25 sem2 NUS EE5134 includes two parts:
 * WDM Virtual Topology Design
 * WDM Network Survivability
 * Optical Burst and Packet Switching
-* Optical Access Networks,etc.
+* Optical Access Networks, etc.
 ## Part 2: Optical Communications
 * Optical fibers
 * Optical components

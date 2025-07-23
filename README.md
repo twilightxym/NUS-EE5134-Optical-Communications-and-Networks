@@ -12,4 +12,3 @@ AY24/25 sem2 NUS EE5134 includes two parts:
 * Optical components
 * Transmission system engineering
 
-Assessment is based on a 2 hr final exam (60%) and CA (40%)
